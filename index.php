@@ -216,7 +216,7 @@
 									<div class="thumbnail">
 										<img src="http://www.adhumi.fr/img/img-freepod.png" alt="Freepod">
 										<div class="caption">
-											<h5>Tweetwall</h5>
+											<h5>Freepod</h5>
 											<p>Développement d'un site web (SPIP) pour le réseau de podcasts <a href="http://www.freepod.net">Freepod</a>.</p>
 										</div>
 									</div>
